@@ -1,4 +1,5 @@
 # Jupyter Lab App
+![](./ScreenShot.png)
 A simple electron app for Jupyter Lab, because that's all I wanted
 
 Based on the wonderful quick start eletron app: https://github.com/electron/electron-quick-start
