@@ -16,7 +16,7 @@ Once it boots for the first time if you have Jupyter Lab running in the backgrou
 This allows you to do other helpful things like override keyboard shortcuts that would otherwise be reserved for your browser, such as easily switching tabs:
 
 ### keyboard user settings
-```
+``` json
 {
     "shortcuts": [
         {
